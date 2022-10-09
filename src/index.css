@@ -18,19 +18,3 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
-.green {
-  color: green;
-}
-.red {
-  color: red;
-}
-.coin-row {
-  cursor: pointer;
-  box-shadow: 0 0 12px #18191b;
-  border-radius: 8px;
-}
-.coin-row:hover {
-  border: 1px solid white;
-  transition: 0.3s ease-in-out;
-  transform: scale(1.04);
-}
